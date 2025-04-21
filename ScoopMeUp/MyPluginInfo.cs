@@ -7,11 +7,11 @@ namespace ScoopMeUp
         public const string PLUGIN_GUID = "id107.scoopmeup";
         public const string PLUGIN_NAME = "ScoopMeUp";
         public const string USERS_PLUGIN_NAME = "Scoop Me Up";
-        public const string PLUGIN_VERSION = "1.0.0";
+        public const string PLUGIN_VERSION = "1.0.1";
         public const string PLUGIN_DESCRIPTION = "Adds a client keybind for players to be attracted to the gravity scoop";
         public const string PLUGIN_ORIGINAL_AUTHOR = "18107";
         public const string PLUGIN_AUTHORS = "18107";
-        public const string PLUGIN_THUNDERSTORE_ID = "";
+        public const string PLUGIN_THUNDERSTORE_ID = "NihilityShift/Scoop_Me_Up";
     }
 }
 #pragma warning restore CS1591
